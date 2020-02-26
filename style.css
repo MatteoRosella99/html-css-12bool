@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.intro{
+  height: 150px;
+  background-color: blue;
+  border: solid black 0.5px;
+}
+.b{
+  background-color: blue;
+}
+.r{
+  background-color: red;
+}
+.v{
+  background-color: green;
+}
+.g{
+  background-color: yellow;
+}
+.a{
+  background-color: orange;
+}
+.p{
+  background-color: purple;
+}
